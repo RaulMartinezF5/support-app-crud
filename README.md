@@ -79,8 +79,8 @@ Desarrollar un MVP básico para que los empleados puedan realizar sus consultas 
 - Bases de datos: MySQL
  
 ### Instalación:
- cd src/main
- npm install
+ - cd src/main
+ - npm install
  
  
  
