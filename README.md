@@ -5,6 +5,9 @@
 
 Contexto del proyecto
 Desarrollar un MVP básico para que los empleados puedan realizar sus consultas y esas queden registradas en una base de datos MySQL. El software será una aplicación orientada a objetos.
+![Captura-app-support-app-home](https://user-images.githubusercontent.com/116883797/215062619-57c8046c-09cd-468f-85a0-ff14217ba75d.PNG)
+![Captura-app-support-app-list](https://user-images.githubusercontent.com/116883797/215062647-8807db6c-458f-4f07-8998-65de5beff150.PNG)
+![captura-appe-support-app](https://user-images.githubusercontent.com/116883797/215062670-885223fa-78ac-4abb-b360-31749a8e28b7.PNG)
 
 ​
 
